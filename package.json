@@ -1,0 +1,20 @@
+{
+  "name": "testapi",
+  "version": "1.0.0",
+  "description": "super api",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.16.1",
+    "express": "^4.14.1",
+    "mongodb": "^3.2.12",
+    "mongojs": "^2.4.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  }
+}
